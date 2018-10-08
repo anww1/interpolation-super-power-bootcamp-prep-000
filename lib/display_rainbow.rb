@@ -1,1 +1,3 @@
-# Write your #display_rainbow method here
+Rainbow = ["Red", "Orange", "Yellow",""]
+
+def display_rainbow
