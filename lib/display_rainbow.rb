@@ -1,3 +1,5 @@
-Rainbow = ["Red", "Orange", "Yellow","Green",""
+Rainbow = ["Red", "Orange", "Yellow","Green","Blue","Indigo","Violet"]
 
-def display_rainbow
+
+def display_rainbow(Rainbow)
+  puts 
