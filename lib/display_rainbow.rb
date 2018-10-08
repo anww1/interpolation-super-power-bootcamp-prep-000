@@ -1,5 +1,5 @@
-Rainbow = ["Red", "Orange", "Yellow","Green","Blue","Indigo","Violet"]
+def Rainbow = ["Red", "Orange", "Yellow","Green","Blue","Indigo","Violet"]
+end
 
-
-display_rainbow =Rainbow
+display_rainbow = Rainbow
   puts "R: #{Rainbow[0]}, O: #{Rainbow[1]}, Y: #{Rainbow[2]}, G: #{Rainbow[3]}, B: #{Rainbow[4]}, I: #{Rainbow[5]}, V: #{Rainbow[6]}"
