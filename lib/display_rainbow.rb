@@ -2,4 +2,4 @@ Rainbow = ["Red", "Orange", "Yellow","Green","Blue","Indigo","Violet"]
 
 
 def display_rainbow(Rainbow)
-  puts "R: #{Rainbow[0]},
+  puts "R: #{Rainbow[0]}, O: #{Rainbow[1]},
