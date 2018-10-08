@@ -1,5 +1,5 @@
-def Rainbow = ["Red", "Orange", "Yellow","Green","Blue","Indigo","Violet"]
-end
+colors = ["Red", "Orange", "Yellow","Green","Blue","Indigo","Violet"]
 
-display_rainbow = Rainbow
-  puts "R: #{Rainbow[0]}, O: #{Rainbow[1]}, Y: #{Rainbow[2]}, G: #{Rainbow[3]}, B: #{Rainbow[4]}, I: #{Rainbow[5]}, V: #{Rainbow[6]}"
+def display_rainbow(colors)
+  puts "R: #{colors[0]}, O: #{colors[1]}, Y: #{colors[2]}, G: #{colors[3]}, B: #{colors[4]}, I: #{colors[5]}, V: #{colors[6]}"
+end
